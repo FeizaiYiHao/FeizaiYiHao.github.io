@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Most recent <br /><a href="https://academicpages.github.io/files/paper3.pdf"> CV</a>
+Most recent <a href="CV.pdf" download> CV</a>
