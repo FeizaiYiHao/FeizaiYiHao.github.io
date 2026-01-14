@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Most recent <a href="CV.pdf" download> CV</a>
+Most recent <a href="../CV.pdf" download="download"> CV</a>
