@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "Welcome to Xiandgong's homepage"
 author_profile: true
 redirect_from: 
   - /about/
