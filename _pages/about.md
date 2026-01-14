@@ -9,8 +9,8 @@ redirect_from:
 
 I am a final year PhD student in computer science from University of Utah. My research foucs is on operating systems, formal verification, compiler and, security. 
 
-My most recent work: [Atmosphere](https://mars-research.github.io/projects/atmo/) a clean slate verified microkernel.
+My most recent work: [Atmosphere](https://mars-research.github.io/projects/atmo/), a clean slate verified microkernel.
 
-Ongoing: [VeriFlat](https://github.com/FeizaiYiHao/VeriFlat) a verified microkernel with fine-grained locking for concurrency.
+Ongoing project: [VeriFlat](https://github.com/FeizaiYiHao/VeriFlat), a verified microkernel with fine-grained locking for concurrency.
 
-When I have free time: Async function support for [Verus](https://github.com/verus-lang/verus).
+Side project: Async function support for [Verus](https://github.com/verus-lang/verus).
