@@ -14,3 +14,5 @@ My most recent work: [Atmosphere](https://mars-research.github.io/projects/atmo/
 Ongoing project: [VeriFlat](https://github.com/FeizaiYiHao/VeriFlat), a verified microkernel with fine-grained locking for concurrency.
 
 Side project: Async function support for [Verus](https://github.com/verus-lang/verus).
+
+<a href="{{ base_path }}/files/Thesis.pdf" class="btn btn--primary">My PhD thesis</a>
